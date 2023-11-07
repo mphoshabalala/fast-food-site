@@ -1,0 +1,101 @@
+{
+    "kotas": [
+        {
+            "id":0,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota1.png", "images/kota1.png", "images/kota1.png", "images/kota1.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":1,
+            "name": "Vegan-beef Kota",
+            "price": 30,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota2.png", "images/kota2.png", "images/kota2.png", "images/kota2.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":2,
+            "name": "Russian Burger Kota",
+            "price": 20,
+            "ingredients":["Russian", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota3.png", "images/kota3.png", "images/kota3.png", "images/kota3.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":3,
+            "name": "Chicken Kota",
+            "price": 18,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota4.png", "images/kota4.png", "images/kota4.png", "images/kota4.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":4,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota5.png", "images/kota5.png", "images/kota5.png", "images/kota5.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":5,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota6.png", "images/kota6.png", "images/kota6.png", "images/kota6.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":6,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota4.png", "images/kota7.png", "images/kota7.png", "images/kota7.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":7,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota7.png", "images/kota8.png", "images/kota8.png", "images/kota8.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":8,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota9.png", "images/kota9.png", "images/kota9.png", "images/kota9.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":9,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota10.png", "images/kota10.png", "images/kota10.png", "images/kota10.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }, {
+            "id":10,
+            "name": "Cheese Burger Kota",
+            "price": 25,
+            "ingredients":["Beef Patty", "Chilli Sauce", "Chedda Cheese", "Lettuce", "Smoked Bread", "Fried Crispy Chips"],
+            "images": ["images/kota1.png", "images/kota11.png", "images/kota11.png", "images/kota11.png"],
+            "description": "This kota was inspired by iconic south African fusion of fast food with healthy veggies, the meat is 100 percent ground beef supplied to us by some of the top South African farmers"
+        }
+    ],
+    "questions": [
+        {
+            "id": 0,
+            "question": "How long does it take to prepare my order?",
+            "answer": "It takes not less than 20 minutes to prepare your delicacy."
+        },
+        {
+            "id": 1,
+            "question": "Will I get money back if I couldn't collect my order?",
+            "answer": "Yes, we offer money back to our customers within 24 hours."
+        },
+
+        {
+            "id": 2,
+            "question": "Will my order be delivered to my location?",
+            "answer": "Yes, we deliver to your doorstep from 11:00am to 08:00pm on week days, and we deliver upto 11:00pm on weekends"
+        }
+    ]
+    
+}
